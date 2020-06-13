@@ -1,0 +1,7 @@
+Hello, my name is park.
+This is a text which is written by park.
+I am going to talk about big data.
+Big data is going to be important.
+We live in a big data world.
+Everything is data in this era. 
+Spark is a tool to use big data.
